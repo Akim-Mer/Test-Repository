@@ -80,7 +80,6 @@ align-self: start;
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-size: cover;
-	 
 	}
 
 .header__content-inner {
@@ -129,25 +128,15 @@ align-self: start;
 	justify-content: space-between;
 }
 
-.title {
-
-}
-
 .about__title {
 	font-size: 48px;
 }
 
-.about__text {
-	
-}
 .about__text p {
 
 	max-width: 770px;
 	margin-bottom: 28px; /**Отступ влияет на родительский padding, поэтому нужно расчитывать*/
 }
-
-
-
 
 .expertise {
 	padding-top: 143px;
