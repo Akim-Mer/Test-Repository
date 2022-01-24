@@ -152,6 +152,7 @@ align-self: start;
 .expertise__top {
 	display: flex;
 	justify-content: space-between;
+	display: block;
 }
 
 .expertise__info {
